@@ -1,0 +1,3 @@
+[submodule "admin_trigger"]
+	path = admin_trigger
+	url = https://github.com/mek4nr/admin_trigger
